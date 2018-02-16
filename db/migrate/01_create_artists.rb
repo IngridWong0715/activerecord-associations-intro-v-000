@@ -6,5 +6,5 @@ class CreateArtists < ActiveRecord::Migration
   end
 end
 
-#has many songs 
+#has many songs
 #has many genres through songs
